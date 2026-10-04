@@ -14,6 +14,7 @@
 #include "open3d/core/CUDAUtils.h"
 #include "open3d/core/Indexer.h"
 #include "open3d/core/kernel/NonZero.h"
+#include <thrust/tuple.h>
 
 namespace open3d {
 namespace core {
